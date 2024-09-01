@@ -1,4 +1,6 @@
 body{
     background-color: red;
     width: 2000px;
+    font-family: 'Courier New', Courier, monospace;
+    color: chartreuse;
 }
